@@ -1,15 +1,14 @@
 ---
 date: 2018-10-09 12:26:40
 layout: post
-title: The quick brown fox jumps over a lazy dog
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: 아윌 다입 인 투 유 
+subtitle: 유우우우 유우우우 
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
-category: css
+image: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MDVfMTMy%2FMDAxNjIwMTg3NTk4ODIw.CdTeaFk89cypHJtPfXE_96xf1Y1Vl0u4JVfQ95ZaBEMg.8XZumZ0_769wG21fb4vYm-dZS7HfBfbdmYO6tAb-EO4g.JPEG.gch02738%2FIMG_1284.jpg&type=sc960_832
+category: NCT DREAM
 tags:
-  - css
-  - tips
+  - 청량갑
+  - 사랑해
 author: thiagorossener
 ---
 

@@ -1,15 +1,14 @@
 ---
 date: 2018-04-21 12:26:40
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: 도영이 뮤지컬 화이팅
+subtitle: 니 얼굴이 미래다
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
-category: diet
+image: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MThfNDIg%2FMDAxNjIxMzA2ODcyMjgx.XP07DTJRFBL01S846kObaVo1ASD4D1gp-gJyOPNLRZ8g.zGh3wSKjDhtvYrTKFW6GRfRkz1afnBa1SqWG1k6uo_4g.PNG.5bok98%2FIMG_1302.PNG&type=sc960_832
+category: NCT127
 tags:
-  - food
-  - tips
+  - 사랑해
+  - 김도영
 author: thiagorossener
 ---
 

@@ -1,16 +1,14 @@
 ---
 date: 2018-07-20 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: 디기리
+subtitle: 위 고 핟 붐 디기리 
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
-category: code
+image: https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA1MDdfMTEg%2FMDAxNjIwMzE0MjEzNzYz.M6ax8AOqnW3wmbBo0hfyqpSxc1LxgpA5LXCVzuH13Gkg.e7vtzYPY073DcuQxrBWNuTz69MhavNqISfP2GGtvBnUg.JPEG.o3o_o0o__%2Foutput_3607663223.jpg&type=a340
+category: NCT DREAM
 tags:
-  - platform
-  - javascript
-  - vscode
+  - 찌저따
+
 author: thiagorossener
 ---
 

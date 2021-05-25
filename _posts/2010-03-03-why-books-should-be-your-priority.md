@@ -2,14 +2,12 @@
 date: 2018-11-22 12:26:40
 layout: post
 title: 핫 소스 깊이 딥 댓~
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+subtitle: '날 따라 넌 트위스트 댓 엔시티드림 많관부'
+image: https://thumb.mt.co.kr/06/2021/04/2021042109158280832_2.jpg/dims/optimize/
+category: NCT DREAM
 tags:
-  - books
-  - read
+  - 맵다매워
+  - 핫쏘스
 author: thiagorossener
 paginate: true
 ---
